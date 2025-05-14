@@ -34,7 +34,7 @@ cd java-paint-app
 ### Compiling with Javac
 
 ```bash
-javac -d out src/com/example/paintapp/*.java
+javac src/FXGraphicsTemplate.java
 ```
 Make sure your file structure looks like this
 ```css
