@@ -50,5 +50,5 @@ src/
 ## Start the app
 
 ```bash
-java FXGraphicsTemplate.java
+java src/FXGraphicsTemplate.java
 ```
