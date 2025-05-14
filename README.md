@@ -28,7 +28,7 @@ Supports drawing **circles**, **squares**, using an **eraser**, and **color sele
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/java-paint-app.git
+git clone https://github.com/nguyendy630/java-paint-app.git
 cd java-paint-app
 ```
 ### Compiling with Javac
