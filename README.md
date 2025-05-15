@@ -16,7 +16,7 @@ Supports drawing **circles**, **squares**, using an **eraser**, and **color sele
 
 ## Requirements
 
-- Java 17+ (Liberica JDK recommended)
+- Java 17+ (Liberica JDK Full recommended)
 - Git (for cloning the repository)
 
 > 📦 [Download Liberica JDK](https://bell-sw.com/pages/downloads/)
